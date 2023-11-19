@@ -1,4 +1,4 @@
-date,description,deposit,transaction,balance
+date,description,transaction,deposit,balance
 09/25/2023,UQ474 TFR-FR 6542032,,250.00,296.09
 09/25/2023,HUDSON'S BAY #1   _F,85.03,,211.06
 09/25/2023,ONNURI UNIVERSI   _F,50.67,,160.39
@@ -89,3 +89,4 @@ date,description,deposit,transaction,balance
 11/02/2023,DISPUTE ADJUST   MSP,,14.67,269.44
 11/02/2023,DISPUTE ADJUST   MSP,,40.22,309.66
 11/02/2023,DISPUTE ADJUST   MSP,,50.00,359.66
+
